@@ -25,7 +25,7 @@ Prerequisites
 
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/Anandyadav04/mern-lms.git
+git clone https://github.com/Parth021105/mern-lms
 cd mern-lms
 
 2.Setup Backend
